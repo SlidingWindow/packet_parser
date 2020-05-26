@@ -2,7 +2,7 @@
 
 import scapy.all as scapy
 from scapy.layers import http
-import re, json,random, struct,binascii,os,sys
+import re, json,random,os,sys
 import scapy.packet as packet
 
 scapy.load_layer("http")
