@@ -17,11 +17,10 @@ Process network packets while sniffing or reading from PCAP files.
  
  [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
  [1]: https://twitter.com/kapil_khot
+  
  
- 
- # Follow me on [![alt text][1.1]][1]
- 
- 
- #Thanks to:
+ # Thanks to:
  
  1. @ZarvisD for helping me with HTTP Sessions!
+
+ # Follow me on [![alt text][1.1]][1]
