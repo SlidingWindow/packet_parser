@@ -8,7 +8,7 @@ import scapy.packet as packet
 scapy.load_layer("http")
 
 #Global variables here
-PCAP_FILE = "/Users/kaps/Desktop/scapy/test.pcapng"
+PCAP_FILE = os.getcwd() + "/test.pcapng"
 
 def dump_to_json(parsed_dict, part_name):
     out_file = PCAP_FILE.split("/")
